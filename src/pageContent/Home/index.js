@@ -83,11 +83,9 @@ class Home extends Component {
               return (
                 <View
                   style={{
-                    backgroundColor: "green",
-                    margin: 5,
-                    height: 150,
-                    width: 400,
-                    flexWrap: "wrap",
+                    padding: 5,
+                    height: 250,
+                    width: "100%",
                   }}
                 >
                   <Image

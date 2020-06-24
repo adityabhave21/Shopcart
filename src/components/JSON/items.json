@@ -3,7 +3,7 @@
     {
       "itemId": 1,
       "itemName": "Test",
-      "ImageUrl": "../../components/assets/item1.png"
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
     },
     {
       "itemId": 2,
@@ -13,22 +13,22 @@
     {
       "itemId": 3,
       "itemName": "Test",
-      "ImageUrl": "../../components/assets/item3.png"
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
     },
     {
       "itemId": 4,
       "itemName": "Test",
-      "ImageUrl": "../../components/assets/item4.png"
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
     },
     {
       "itemId": 5,
       "itemName": "Test",
-      "ImageUrl": "../../components/assets/item1.png"
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
     },
     {
       "itemId": 6,
       "itemName": "Test",
-      "ImageUrl": "../../components/assets/item2.png"
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
     }
   ]
 }
