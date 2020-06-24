@@ -1,0 +1,32 @@
+{
+  "menuList": [
+    {
+      "menuId": "menu0",
+      "name": "Home",
+      "routerName": "Home",
+      "iconName": "home",
+      "iconFamily": "AntDesign"
+    },
+    {
+      "menuId": "menu1",
+      "name": "Privacy Policy",
+      "routerName": "PrivacyPolicy",
+      "iconName": "verified-user",
+      "iconFamily": "MaterialIcons"
+    },
+    {
+      "menuId": "menu2",
+      "name": "About Us",
+      "routerName": "AboutUs",
+      "iconName": "info",
+      "iconFamily": "entypo"
+    },
+    {
+      "menuId": "menu3",
+      "name": "Logout",
+      "routerName": "Logout",
+      "iconName": "log-out",
+      "iconFamily": "entypo"
+    }
+  ]
+}

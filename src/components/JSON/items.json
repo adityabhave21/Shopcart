@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "itemId": 1,
+      "itemName": "Test",
+      "ImageUrl": "../../components/assets/item1.png"
+    },
+    {
+      "itemId": 2,
+      "itemName": "Test",
+      "ImageUrl": "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
+    },
+    {
+      "itemId": 3,
+      "itemName": "Test",
+      "ImageUrl": "../../components/assets/item3.png"
+    },
+    {
+      "itemId": 4,
+      "itemName": "Test",
+      "ImageUrl": "../../components/assets/item4.png"
+    },
+    {
+      "itemId": 5,
+      "itemName": "Test",
+      "ImageUrl": "../../components/assets/item1.png"
+    },
+    {
+      "itemId": 6,
+      "itemName": "Test",
+      "ImageUrl": "../../components/assets/item2.png"
+    }
+  ]
+}
